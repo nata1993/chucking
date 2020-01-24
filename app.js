@@ -16,11 +16,16 @@ function getJokes(event)
 	})
 	.then(function(data)
 	{
+		let output = '';
 		//for each joke in data.value array
 		data.value.forEach(joke => 
-		console.log(joke.joke));
+		{
+			output += `<li>${joke.joke}</li>`;
+			console.log(joke.joke);
+			document.querySelector('.jokes').innerHTML = output;
 		
-	});
+		})
+	})
 	console.log(userNumber);
 	event.preventDefault();
 }

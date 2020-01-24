@@ -1,0 +1,13 @@
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\bin\Debug\netcoreapp3.1\elering.exe
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\obj\Debug\netcoreapp3.1\elering.csprojAssemblyReference.cache
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\obj\Debug\netcoreapp3.1\elering.AssemblyInfoInputs.cache
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\obj\Debug\netcoreapp3.1\elering.AssemblyInfo.cs
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\bin\Debug\netcoreapp3.1\elering.deps.json
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\bin\Debug\netcoreapp3.1\elering.runtimeconfig.json
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\bin\Debug\netcoreapp3.1\elering.runtimeconfig.dev.json
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\bin\Debug\netcoreapp3.1\elering.dll
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\bin\Debug\netcoreapp3.1\elering.pdb
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\obj\Debug\netcoreapp3.1\elering.csproj.CopyComplete
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\obj\Debug\netcoreapp3.1\elering.dll
+C:\Users\opilane\Projects\chuck\Uus_kaust\ConsoleApp1\elering\obj\Debug\netcoreapp3.1\elering.pdb

@@ -7,8 +7,10 @@ document.querySelector('.get-jokes').addEventListener('click', getJokes);
 function getJokes(event)
 {
 	const userNumber = document.querySelector('input[type="number"]').value;
+	
+	const proxyUrl = "https://cors-anywhere.herokuapp.com/";
 	//GET request
-	fetch(`http://api.icndb.com/jokes/random/${userNumber}`)
+	fetch(`${proxyUrl}http://api.icndb.com/jokes/random/${userNumber}`)
 	.then(function(response)
 	{
 		console.log(response);
